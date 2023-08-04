@@ -57,8 +57,8 @@ My professional experience includes bringing the wireframes of the UX designer t
 - 🔭 I’m currently working on MERN E-commerce Project 
 - 🌱 I’m currently learning NODE, Express, Next JS 
 - 📫 How to reach me: shahriyar.31dec@gmail.com
-- 📫 My LinkedIn Profile: shahriyar.31dec@gmail.com
-- 📫 My Portfolio website: [https://www.linkedin.com/in/theshahriyar/](https://www.linkedin.com/in/theshahriyar/) 
+- 📫 My LinkedIn Profile: [https://www.linkedin.com/in/theshahriyar/](https://www.linkedin.com/in/theshahriyar/) 
+- 📫 My Portfolio website: [https://shahriyar-ahmed-portfolio-nextjs.netlify.app/](https://shahriyar-ahmed-portfolio-nextjs.netlify.app/) 
 
 <h2></h2>
 
